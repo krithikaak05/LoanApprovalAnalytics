@@ -1,4 +1,4 @@
-# Decoding Borrower Behavior
+# Borrower Behavior & Loan Approval Analytics
 ### A Data-Driven Exploration of Lending Patterns and Borrower Outcomes in Massachusetts
 
 ## Overview
