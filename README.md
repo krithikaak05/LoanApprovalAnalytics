@@ -1,10 +1,6 @@
 # Decoding Borrower Behavior
 ### A Data-Driven Exploration of Lending Patterns and Borrower Outcomes in Massachusetts
 
-**Author:** Krithika Annaswamy Kannan
-
----
-
 ## Overview
 
 This project analyzes Massachusetts Home Mortgage Disclosure Act (HMDA) data to uncover the factors that drive loan approvals and denials. The end-to-end pipeline covers data ingestion, preprocessing, feature engineering, and a three-page interactive Power BI dashboard — structured around a central question: *if borrowers like Maya are denied despite decent income, what really drives loan decisions in Massachusetts?*
