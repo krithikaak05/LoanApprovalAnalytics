@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project analyzes Massachusetts Home Mortgage Disclosure Act (HMDA) data to uncover the factors that drive loan approvals and denials. The end-to-end pipeline covers data ingestion, preprocessing, feature engineering, and a three-page interactive Power BI dashboard — structured around a central question: *if borrowers like Maya are denied despite decent income, what really drives loan decisions in Massachusetts?*
+This project analyzes Massachusetts Home Mortgage Disclosure Act (HMDA) data to uncover the factors that drive loan approvals and denials. The end-to-end pipeline covers data ingestion, preprocessing, feature engineering, and a three-page interactive Power BI dashboard, structured around a central question: *if borrowers like Maya are denied despite decent income, what really drives loan decisions in Massachusetts?*
 
 The analysis spans 2020 to 2024 MA mortgage data (focused on 2023 for the cleaned model dataset) and is presented as a 16-slide narrative deck supported by live Power BI visuals.
 
@@ -150,7 +150,7 @@ pandas
 numpy
 ```
 
-Run in Google Colab or any Python 3.8+ environment with the source CSV at the path specified in the notebook. The Power BI dashboard connects to the exported CSV as a live data source (last updated 12/7/25).
+Run in Google Colab or any Python 3.8+ environment with the source CSV at the path specified in the notebook. The Power BI dashboard connects to the exported CSV as a live data source.
 
 ---
 
